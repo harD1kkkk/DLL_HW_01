@@ -1,0 +1,11 @@
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\bin\Debug\net8.0\DLL_Files.deps.json
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\bin\Debug\net8.0\DLL_Files.dll
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\bin\Debug\net8.0\DLL_Files.pdb
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.dll
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\refint\DLL_Files.dll
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\DLL_Files.pdb
+C:\Users\arthu\source\repos\Dll_HW_01\DLL_Files\obj\Debug\net8.0\ref\DLL_Files.dll
